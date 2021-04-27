@@ -1,6 +1,6 @@
 ---
 layout: documentation
-languages: [ja, zh-cn, ru]
+languages: [ja, zh-cn, ru, fa]
 title: Documentation
 namespace: root
 discourse: true
